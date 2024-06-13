@@ -14,7 +14,7 @@ Este podcast oferece uma breve história sobre o desenvolvimento da IA, desde os
 ## 🚀 Resultados
 O episódio é uma breve história da inteligência artificial , enfatizando os principais evenetos históricos.
 
-[LINK PARA O PODCAST AQUI]()
+[LINK PARA O PODCAST AQUI](PodCast-Historia_da_IA)
 
 ## 💭 Reflexão
 O projeto os principais eventos históricos relevantes na história da inteligência artificial.
